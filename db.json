@@ -1,0 +1,34 @@
+{
+  "productsone": [
+{
+"for": "men","department": "bags","name": "Hero Academia Backpack","price": 38,"size": "1sz","fabric": "100% Polyester","color": "Black","image": "../img-public/men-products/pr-bags/Primitive X My Hero Academia Backpack-1.jpg","image2": "../img-public/men-products/pr-bags/Primitive X My Hero Academia Backpack-2.jpg","image3": "../img-public/men-products/pr-bags/Primitive X My Hero Academia Backpack-3.jpg","image4": "../img-public/men-products/pr-bags/Primitive X My Hero Academia Backpack-4.jpg","image5": "../img-public/men-products/pr-bags/Primitive X My Hero Academia Backpack-5.jpg","mark": "Primitive","id": 1
+},
+{
+"for": "men","department": "bags","name": "Puma Carrysack Bag","price": 17,"size": "1sz","fabric": "100% Polyester","color": "Black","image": "../img-public/men-products/pr-bags/Puma-Evercat-Rhytm-Carrysack-Bag-1.jpg","image2": "../img-public/men-products/pr-bags/Puma-Evercat-Rhytm-Carrysack-Bag-2.jpg","mark": "Puma","id": 2
+},
+{
+"for": "men","department": "bags","name": "Packable Duffel Bag","price": 45,"size": "1sz","fabric": "100% Polyester","color": "Black","image": "../img-public/men-products/pr-bags/The Packable Duffel Bag-1.jpg","image2": "../img-public/men-products/pr-bags/The Packable Duffel Bag-2.jpg","image3": "../img-public/men-products/pr-bags/The Packable Duffel Bag-3.jpg","image4": "../img-public/men-products/pr-bags/The Packable Duffel Bag-4.jpg","image5": "../img-public/men-products/pr-bags/The Packable Duffel Bag-5.jpg","mark": "LRG","id": 3
+},
+{
+"for": "men","department": "bags","name": "Remix Backpack LRG","price": 65,"size": "1sz","fabric": "100% Polyester","color": "Sand","image": "../img-public/men-products/pr-bags/Remix Backpack-1.jpg","image2": "../img-public/men-products/pr-bags/Remix Backpack-2.jpg","image3": "../img-public/men-products/pr-bags/Remix Backpack-3.jpg","image4": "../img-public/men-products/pr-bags/Remix Backpack-4.jpg","image5": "../img-public/men-products/pr-bags/Remix Backpack-5.jpg","mark": "LRG","id": 4
+},
+{
+"for": "men","department": "bags","name": "Remix Backpack Black","price": 65,"size": "1sz","fabric": "100% Polyester","color": "Black","image": "../img-public/men-products/pr-bags/Remix Backpack-black-1.jpg","image2": "../img-public/men-products/pr-bags/Remix Backpack-black-2.jpg","image3": "../img-public/men-products/pr-bags/Remix Backpack-black-3.jpg","image4": "../img-public/men-products/pr-bags/Remix Backpack-black-4.jpg","image5": "../img-public/men-products/pr-bags/Remix Backpack-black-5.jpg","mark": "LRG","id": 5
+},
+{
+"for": "men","department": "bags","name": "Naruto Sasuke Backpack","price": 17.99,"size": "1sz","fabric": "Shell, Lining and Fill: 100% Polyester","color": "Navy","image": "../img-public/men-products/pr-bags/Naruto Sasuke Backpack-1.jpg","image2": "../img-public/men-products/pr-bags/Naruto Sasuke Backpack-2.jpg","image3": "../img-public/men-products/pr-bags/Naruto Sasuke Backpack-3.jpg","image4": "../img-public/men-products/pr-bags/Naruto Sasuke Backpack-4.jpg","image5": "../img-public/men-products/pr-bags/Naruto Sasuke Backpack-5.jpg","mark": "Reason X","id": 6
+},
+{
+"for": "men","department": "bags","name": "Boxed Horseshoe Bag","price": 16.99,"size": "1sz","fabric": "100% Polyester","color": "Red","image": "../img-public/men-products/pr-bags/Boxed Horseshoe-1.jpg","image2": "../img-public/men-products/pr-bags/Boxed Horseshoe-2.jpg","mark": "Reason X","id": 7
+},
+{
+"for": "men","department": "bags","name": "Miami Heat Backpack","price": 15.99,"size": "1sz","fabric": "100% Polyester","color": "Grey","image": "../img-public/men-products/pr-bags/Miami Heat Basic Backpack-1.jpg","image2": "../img-public/men-products/pr-bags/Miami Heat Basic Backpack-2.jpg","image3": "../img-public/men-products/pr-bags/Miami Heat Basic Backpack-3.jpg","image4": "../img-public/men-products/pr-bags/Miami Heat Basic Backpack-4.jpg","image5": "../img-public/men-products/pr-bags/Miami Heat Basic Backpack-5.jpg","mark": "Fisll","id": 8
+},
+{
+"for": "men","department": "bags","name": "Caution Backpack Streetz","price": 22.99,"size": "1sz","fabric": "100% Polyester","color": "Black","image": "../img-public/men-products/pr-bags/Caution Backpack-1.jpg","image2": "../img-public/men-products/pr-bags/Caution Backpack-2.jpg","image3": "../img-public/men-products/pr-bags/Caution Backpack-3.jpg","image4": "../img-public/men-products/pr-bags/Caution Backpack-4.jpg","image5": "../img-public/men-products/pr-bags/Caution Backpack-5.jpg","mark": "Streetz Iz Watchin","id": 9
+},
+{
+"for": "men","department": "bags","name": "Waterproof Expandable Backpack","price": 12.99,"size": "1sz","fabric": "100% Polyester","color": "Blue","image": "../img-public/men-products/pr-bags/Waterproof Expandable Backpack-1.jpg","image2": "../img-public/men-products/pr-bags/Waterproof Expandable Backpack-2.jpg","image3": "../img-public/men-products/pr-bags/Waterproof Expandable Backpack-3.jpg","image4": "../img-public/men-products/pr-bags/Waterproof Expandable Backpack-4.jpg","image5": "../img-public/men-products/pr-bags/Waterproof Expandable Backpack-5.jpg","mark": "Buyer Picks","id": 10
+}
+  ]
+}
